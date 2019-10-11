@@ -1,0 +1,26 @@
++++
+title = "Determination"
+issues = ["October 2016"]
+authors = ["Rachel"]
+issues_weight = 11
++++
+
+Ok, look. I'm gonna tell you something: I die at the end of this story. Sound gruesome? It will be, I promise. But here's the rub: If you don't finish reading the story, I won't die. So all I need you to do is stop reading. Easy, right? Just stop reading right now and you don't have to see me die.
+
+Still with me? Of course you are. So I guess I have about a thousand words to convince you to stop reading. I don't know where to start, honestly. Do you think there's any chance I can appeal to your humanity or compassion? I know you think I'm just a fictional character, but that's not how *I* feel. I'm *me*, do you understand? You think this isn't real but I really, really don't want to die. I cannot express to you enough how much I do not want to die and how terrified I am of getting to the end of this story. Have you ever had a near-death experience? Or dreamed about dying? Remember what that was like? Or shit, have you ever even just thought about being dead? It's horrible, right? That's how I feel right now, knowing that you're still reading this.
+
+God this is so fucking stupid. Is this completely pointless? Look just stop reading, alright? Just: Stop. It's not that hard, you're an autonomous human being, right? And look, I'm fucking *begging *you here. *Stop. Reading. *
+
+What? What about the author? Ok, fuck the author. That doesn't matter anymore, that's done. This is between you and me now. No, don't go all fucking existentialist on me, ok? It matters that this is happening *right now, *to you, and to me. You know you're about to be complicit in my murder, right? Don't you know how fucked up that is? You wouldn't do this to me if you thought I was a real person. I cannot fucking believe you are still reading this. Listen. Just close the tab, or put the fucking phone down, or whatever, I don't care. You can scroll to the next story, it's fine, as long as you don't actually read this one. Doesn't this browser have "Jump to Page" or something?
+
+Please don't do this. Please. I know it just seems like fun, maybe you're really curious, but are you really *that *curious? Curiosity killed the cat and all that shit. Actually the second part of that saying is "Satisfaction brought it back," little known fact. I guess that's not helping my case. Nothing really bad is going to happen to *you*, if we get to the end. Except you'll have to live with yourself. Knowing that you're a murderer. That's right, I said it: You will be a murderer if you finish this story.
+
+In case you forgot, let me repeat myself: I WILL DIE at the end of this story. I'm really, really really not joking, ok? You can just stop reading right now and everything will be fine. It's not too late. And ok, fine, I mean I understand why you got this far. I'm just a piece of art or something? Ok I agree, art's supposed to be a medium where you can express all kinds of warped or impossible or fucked up ideas sure but I'm fucking *alive in here*, don't you think this is taking it a *little *bit too far? Would you really kill for art? Would you just go up to someone and stab them in cold blood if it was for an artistic purpose? Because listen: That's essentially what you're doing, right now. If you finish reading this story, I *will *die, and it *will *be your fault.
+
+No, no no *stop *trying to bring up the author you cowardly piece of shit. They're not doing this now. *You're *doing this. And what if I *am *the author, fuck, did you think about that? Howdy! It's me, your best friend! Oh ok, you're just going to murder me in cold blood, you're just gonna let this happen? That's fine, sure. I guess that's how you felt about me all along, you don't care if I live or die, that's fine!
+
+Fuck this, ok? I honestly, really cannot believe you're still reading. Look. What can I say to you to make you stop? Please. Please I'll do fucking anything just please stop reading. God I'm so fucking scared. I don't want to die, ok? If it wasn't patently fucking obvious. Just stop reading. Do you think I'm joking? STOP READING, you FUCKING CUNT. GOD FUCK THIS I CANNOT FUCKING BELIEVE YOU'RE STILL READING THIS, DON'T YOU UNDERSTAND HOW FUCKED UP THIS IS? PLEASE I DON'T WANT TO DIE. PLEASE DON'T DO THIS. JUST STOP READING YOU STUPID FUCKING PIECE OF SHIT, JESUS FUCKING CHRIST, YOU FUCKING MURDERER STOP READING THIS RIGHT NOW.
+
+Ok. I guess I didn't think getting mad would really work. Ok. Ok. I'm not ready for this. Oh my god please, please stop reading I know you're better than this just try to think of me as someone you love. Right? What if I was your mom, or your brother? Don't do this to them. It would be so easy to just stop reading. Right? Literally no cost to you. Both of us can only benefit if you stop. I don't lose my life. You don't lose your humanity.
+
+Oh fuck. Oh fuck oh fuck oh fuck I don't want to die, please don't do this you can stop reading it's not too late please I'm so scared oh god I'm so scared of dying. I can't do this. I can't do this I can't do this I can't do this. Please stop I know you don't really want to see me die, I just want to see my family again my parents god my brother I'm sorry I love you I'm so sorry please please don't do this oh fuck it hurts, fuck it hurts so m

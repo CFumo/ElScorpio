@@ -1,0 +1,32 @@
+{{ define "main" }}
+  <ul>
+    <li>
+      {{ range .Resources.ByType "image" }}
+        <img style="max-height: 75vh" src="{{ .RelPermalink }}" />
+      {{ end }}
+    </li>
+  </ul>
+  <ul>
+  {{ range .Pages }}
+    <div class="list">
+      <li class="alignleft">
+        <strong>
+          <a href="{{.RelPermalink}}">{{.Title}}</a>
+        </strong>
+      </li>
+
+      <li class="aligncenter"></li>
+
+      <li class="alignright">
+        {{/*
+        The weird formatting is necessary to prevent there being a space
+        before the comma.
+        */}}
+        {{ range $i, $author := sort .Params.authors }}{{ if $i }}, {{ end }}<a
+          href="/authors/{{ . | urlize }}/">{{ $author }}</a>{{ end }}
+      </li>
+      <div style="clear: both;"></div>
+    </div>
+  {{ end }}
+  </ul>
+{{ end }}

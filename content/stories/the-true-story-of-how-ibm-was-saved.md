@@ -1,0 +1,28 @@
++++
+title = "The True Story of How IBM Was Saved"
+issues = ["March 2016"]
+authors = ["Auðunn Axel Ólafsson"]
+issues_weight = 17
++++
+
+In	the	middle	of	Q3	1993,	IBM	instituted	a	new	policy	for	meetings	which	sought	to	eliminate	wasting	time	on	frivolous	fluff	and	issues	that	could	well	be	discussed	within	the	divisions.	Earlier	in	the	year	an	engineer	had	worked	out	a	simple	program	which	allotted	a	spot	to	each	attendee	and	a	plastic	card	displaying	a	subset	of	a	large	table	of	symbols.	They	were	instructed	to	simply	point	at	a	symbol	with	their	plastic	pointing	device	when	their	time	came.	Another,	seemingly	random,	symbol	would	light	up	on	the	card	attendees	held.	Testing	showed	great	promise.	The	yield	from	carefully	controlled	mock	meetings	at	the	Division	of	Preternatural	Research	doubled	within	a	week.
+
+Gerstner,	ever	the	man	to	try	new	ways	to	meet	policy	targets,	wanted	to	try	it	immediately	upon	hearing	about	it	in	passing.	The	division	heads	were	reluctant	as	that	division	had	never	delivered	results	before;	they	were	just	discussing	the	humor	of	measuring	the	productivity	of	meetings,	an	entirely	subjective	matter	in	their	opinion.	But	Gerstner	insisted,	so	a	mock	meeting	was	held	that	afternoon	to	train	the	board	of	IBM,	with	preternatural	technicians	strewn	about	the	Armonk	boardroom.	Few	made	it	to	the	meeting	due	to	short	notice	and	skepticism	heavy	enough	to	kill	Chopra	with	blunt	force	trauma	to	the	head.
+
+Gerstner	had	decided	on	the	topic	of	core	strengths	and	weaknesses,	partly	due	to	the	simple	nature	of	the	topic,	mostly	because	he	was	eager	to	reposition	the	company	just	somehow,	even	anyhow.	Technical	difficulties,	among	them	missing	AAA	batteries	for	the	plastic	cards,	delayed	the	start	of	the	meeting	by	half	an	hour.	Three	hours	according	to	some.	Those	grim	technicians	sure	took	their	time.	Might	as	well	have	been	directing	a	funeral.	Looked	the	part	too.
+
+"What	is	this	fly-like	icon	supposed	to	mean?"	one	board	member	asked.	"That	is	open	to	your	honest	interpretation,"	a	technician	helpfully	explained.	"So,	a	fly	then?"	she	asked	sarcastically.	"If	you	honestly	interpret	it	in	that	way,	then	yes,"	the	technician	helpfully	answered.	She	scowled	and	focused	her	attention	on	the	next	attendee	in	line.	He	was	having	trouble	selecting	a	symbol.	"I	don't	know	which	one	to	choose,"	he	said,	looking	the card	over.	"I'll	pass,"	he	said	after	some	thought	and	set	down	the	card.	"Please	choose	a	symbol,"	another	technician	helpfully	instructed.	"The	meeting	can't	continue	without	your	input,	since	you're	logged	in,"	he	further	explained.	Annoyed,	he	blindly	selected	one.	The	card	beeped.	"It	would	be	to	everyone's	benefit	if	you	would	consider	your	choice	more	carefully,"	the	first	technician	helpfully	lectured.	The	board	member	angrily	said	nothing	as	he	picked	the	card	back	up	and	after	some	consideration	chose	a	symbol	that	resembled	a	nose.
+
+Although	everyone	was	able	to	accomplish	the	goal	of	picking	a	symbol	when	their	time	came,	there	was	very	little	understanding	of	what	they	had	accomplished.	Nobody	was	impressed	by	the	results	of	the	mock	meeting.	Least	of	all	Gerstner	who	wanted	to	understand	how	the	division	had	had	any	results	with	this	gadget.	"You'll	wanna	discuss	the	demo	with	Conrad,"	a	technician	helpfully	advised.	"He	can	answer	everything,"	he	said	and	laughed.	Gerstner	didn't	feel	like	humoring	him.	It	wasn't	a	very	good	joke,	he	felt.
+
+Conrad	was	a	blur	of	a	man.	Getting	right	to	the	point,	after	a	handshake	Gerstner	asked	him	from	behind	his	modest	desk:	"Can	you	help	me	understand	the	Iris	project?"	"Iris	project?"	Conrad	asked.	"The	meeting	tool	you've	been	working	on,"	Gerstner	offered	unsure.	"Oh,	is	that	what	they've	named	it,"	Conrad	said,	coming	into	focus.	"Well,	sure,	what	do	you	want	to	know?"
+
+Gerstner	regarded	him	for	a	moment.	He	rarely	saw	anyone	quite	so	confident	and	assured.	Just	a	moment	ago	he	had	never	seen	anyone	as	timid.	"We	held	a	meeting	using	your	tools."	"And	how	did	you	like	it?"	"Well,	I	have	to	tell	you.	And	understand,	while	some	might	not	believe	it,	I	am	well	adept	in	these	matters-or	so	I	thought."	"Ah!	You	had	a	terrible	experience	with	it,	didn't	you?"	Gerstner	stared.	"Don't	worry	about	it!	Give	it	another	go.	Take	the	time	to	get	familiar.	You'll	understand!"	"Well,	sure,	okay.	I	get	that.	But	you	see	here,	the	thing	is,	it's	impossible	to	be	convincing	people	to	attend	meetings	that	go	nowhere."	"You	don't	have	to	worry	about	that,	Mr.	Gerstner.	I	guarantee,	you'll	love	our	Irene."	"You	mean	Iris?"	"Iris!"
+
+Conrad	held	Gerstner's	gaze	for	an	uncomfortably	long	moment	before	Gerstner	found	something	else	to	look	at.	"We're	having	one	at	three	today.	Most	of	the	board	will	attend.
+
+Would	you	consider	your	Iris	gadget	a	good	idea?"	"A	real	meeting	with	everyone?	You	will	not	be	disappointed,"	Conrad	said	with	the	sharpest	smile	Gerstner	had	ever	seen.	How	had	he	convinced	him	already?	That	had	been	the	furthest	from	his	mind	just	a	minute	ago.	He	had	only	wanted	to	ask	Conrad	a	few	choice	questions.	It	would	be	ludicrous	to	waste	company	time	on	some	unproven	gadget	like	that.
+
+While	the	somber	technicians	were	busy	handing	out	Iris	cards,	the	board	whispered	among	themselves.	General	discontent	with	IBM's	newest	hire	ran	high	at	the	outset,	to	say	the	least.	Half	wanted	him	fired.	Others	wanted	to	wait	until	after	he	had	embarrassed	himself.	The	time	table	was	sorted	and	a	technician	asked	for	Gerstner's	cue	to	begin.	A	hush	fell	over	the	board.	"Looks	like	everyone's	eager	to	see	how	this	goes.	Well,	you	can	start	the	program."
+
+The	meeting	went	on	for	exactly 3 days, 5 hours, 24 minutes and change. IBM has not had another board meeting since.

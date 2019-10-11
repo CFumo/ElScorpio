@@ -1,0 +1,6 @@
+{{ define "main" }}
+  <div style="font-family: Exo,sans-serif;">
+    {{ .Content }}
+  </div>
+  {{ .Site.GetPage "/issues" | partial "issue-wall" }}
+{{ end }}

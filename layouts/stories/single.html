@@ -1,0 +1,22 @@
+{{ define "main" }}
+<article class="post">
+  <header>
+    <h1>
+      {{ .Title }}
+    </h1>
+    <h2>
+      {{ range $i, $author := sort .Params.authors }}{{ if $i }}, {{ end }}<a
+        href="/authors/{{ . | urlize }}/">{{ $author }}</a>{{ end }}
+      - <span id="wordCount"> {{ .WordCount }} </span> Words
+      -
+      {{ range .Params.issues }}
+        <a href="/issues/{{ urlize . }}">{{ . }}</a>
+      {{ end }}
+      </a>
+    </h2>
+  </header>
+  <div id='text'>
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>El Scorpio</title>
+		<meta name="description" content="Monthly short stories that never exceed 1000 words and usually involve science fiction.">
+		<meta name="viewport" content="width=device-width">
+
+		<link href="https://fonts.googleapis.com/css?family=Exo:700" rel="stylesheet">
+
+		<link rel="shortcut icon" href="/static/images/favicon.ico">
+		<link rel="apple-touch-icon icon-precomposed" href="/static/images/apple-touch-icon.png"/>
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.0/normalize.min.css">
+
+    {{ with resources.Get "css/styles.css" }}
+    {{ with . | minify | resources.Fingerprint "sha256" }}
+    {{/*
+      The fingerprinting is useful because it adds a hash to the file name
+      which helps with cache busting.
+    */}}
+    <link rel="stylesheet" href="{{ .RelPermalink }}"/>
+    {{ end }}
+    {{ end }}
+	</head>
+
+	<body>
+    <header>
+      <div class="header">
+        <a href="/">
+          <h1>EL SCORPIO</h1>
+          <h2>FLASH FICTION CLUB</h2>
+        </a>
+        <hr><nav><ul>
+          <li><a href="/issues/">Issues</a></li>
+          <li><a href="/authors/">Authors</a></li>
+          <li><a href="/stories/">Stories</a></li>
+          <!--
+          <form action="/search-results/" class="search-form" method="get" data-search-index="false">
+            <input type="text" placeholder="search" id="tipue_search_input" name="q">
+          </form>
+          -->
+        </ul></nav></hr>
+        <hr/>
+      </div>
+    </header>
+
+    <div class="body">
+      {{ block "main" . }}
+      {{ end }}
+    </div>
+	</body>
+</html>

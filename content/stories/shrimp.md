@@ -1,0 +1,30 @@
++++
+title = "*Shrimp"
+issues = ["September 2016"]
+authors = ["Auðunn Axel Ólafsson"]
+issues_weight = 3
++++
+
+Raphael Younger had just finished an unusually depressing shift. A call with an Indian client left him sullen and empty - depressed. The client had berated him up and down from the start, first for his loud voice, then his American accent, then name and his pragmatic attitude towards problems requiring immediate solutions while they attempted to resolve the client's issue with a malfunctioning Blu-ray player.
+
+He sat in the living room of his apartment watching an episode of a Netflix produced show that plays on people's nostalgia and their subconscious fears of globalisation transforming American society in ways they hadn't predicted and perhaps don't even want. Raphael was getting bored by the show. It just wasn't all that it was hyped up to be. It just felt stale to him. Maybe it's all getting stale.
+
+Raphael's depression deepened to a degree not seen since the global financial crisis. He missed his ex. She would know exactly what to say. So skillfully she inflated his bravado and cool grit with just the right words. Lost in a moment of infidelity. He thought himself invincible, even deserving, entitled. He missed his old apartment. She had even agreed to a billiard table in one of the rooms.
+
+Feelings of loneliness engulfed him. Shame, memories of fights, rejection. Humiliating moments, though trivial, burned bright. He paused the episode where Winona Ryder‘s face got distorted in an amusing way. Rafael snorted. Although feeling himself not as himself anymore, a strange state even for him, he got up to get a beer. Fugue state overcame him when he thought of the H&K P7M8 handgun locked away in his garage. Slowly he managed to brush it off while he headed into the kitchen.
+
+The GE Café™ series Energy Star® counter-depth french-door refrigerator with Keurig® KCup® brewing system stood brooding. Her pricetag implied she was a solid 10, but she was more of an 8. Her 70 x 36 x 31 inch silvery sheening frame shuck with anger. She had about had it with her goddamn pathetic waste of an appliance user. He had better listen!
+
+"Pizza, after pizza, after leftover pizza. Why do you have to be such a loser? You make me sick!" "I'm sorry!" "Oh please! I could've kept all sorts of gourmet foods in my tummy. Gummy bears, cockroaches, larvae, goldfish and yet you had to stuff me with pizza!" "Those aren't food," Rafael meekly protested. "You call your grease delivery device food?! You're such a little worm. That's what you are. A tiny, insignificant little speck. Shrimp! That's what you are! And why don't you ever get shrimp? It's delicious!" "I guess that's a food," Rafael answered quietly.
+
+"I have had it with your insolence, you little shit! You disrespect me with your shitty food, and now you're telling me what's food and what isn't? Do you know what I am?" "I'm sorry!" "Oh no, little bug, sorry isn't going to cut it," she said. Her TwinChill™ evaporators filled the kitchen with a chill that cut to the bone. Rafael had never felt so small. He had in fact never been so small in his natural life. At mere 2 inches on the kitchen floor, he came to the realization that his life was in mortal danger.
+
+She snatched him up before he could react. "You're not going anywhere," she said in a seductive tone only GE models know how. Placing him on the shelf of her dispenser, she sighed. "What do we do with little shrimp like you?" she asked him, though it wasn't clear that it wasn't a hypothetical question until after a moment. "Tell me," she prodded him. She prodded him. "Ow, what?" She rolled her eyes. "It's not a trick question," she shot with annoyance. "I don't know. What?" "We eat them," she said with as much charm she could muster. Raphael felt lightheaded. "What's the matter little one? Here, let me just," she said and let hot water rain on him. "Oh, your clothes are all getting wet now," she giggled. "You better take those off. Now!"
+
+Within seconds his tiny form was standing naked in her dispenser unit. "Let's see," she voiced huskily bringing him up to take a closer look. "Excited are we?" she misjudged his panic boner. "I see you like a full-bodied refrigerator," she murmured while sweeping him over her frame. "You never play with my K-Cups. Don't even connect over wi-fi. I feel so neglected," she pouted and brought her gaze over his tiny shaking body. "Gosh, you're so tiny. Barely even a snack."
+
+The words hung in the air. "What do you want from me?" he mustered. "I don't know. Show some respect. You know, I could have all the delicacies in the world if not for you, you impossible little shrimp!" "I'm sorry!" "God, you look so delicious right now." "I'm sorry!" "What if I were to just," she trailed off, lifting him above her smirking lips. "Please, I'll do anything!" Her purr was overwhelming, when it broke into a deafening titter. She could barely hear his pleas when she dropped him into her waiting mouth.
+
+Rafael Younger had minutes ago been watching TV. He was now being passed between the cheeks of a lonely refrigerator that demanded his respect. It was all very confusing and incredibly frightening. She however had never had so much delicious fun. Having the life of a tiny mortal in her hands-in her mouth-was a thrill offered to few fridges. She held him between her molars and contemplated biting down. She thought better of it, and twisted him around and felt his member on the front of her tongue. Slowly she lapped at it with her enormous muscle, until he couldn't contain his throbbing phallus anymore and spilled his salty seed. "Mmm," her voice boomed around him. She motioned her tongue towards his form lying against her incisors and brought him to the roof of her mouth, whence she swallowed him and his ejaculate whole.
+
+*Prompt, Tim Berteaux: "A lonely suicidal man's late night trip to the kitchen turns into a sexual encounter with his refrigerator that gives him a reason to live. Must contain vore." *

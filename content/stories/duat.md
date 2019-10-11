@@ -1,0 +1,18 @@
++++
+title = "Duat"
+issues = ["November 2015"]
+authors = ["Cosmo Fumo"]
+issues_weight = 12
++++
+
+Mark Wilson had died; he was sure of it. He distinctly remembered feeling his ribcage crumple like a handful of twigs. He also remembered his head colliding with a wall and snapping free of his body. There had been a blinding flash of light. He was definitely dead. He was less certain about what had happened next, though. The events that unfolded after his apparent death had been positively bizarre. There was a brief period of complete blackness during which Mark was alarmingly conscious and self-aware. Then there was another flash of light, after which he had found himself standing in a reed field in the center of a valley whose dimensions were difficult to comprehend. Mark might have considered the place a strange kind of heaven if it hadn’t been filled with grunting, swearing farmers that looked a lot like indentured servants or possibly even slaves.
+
+Before he could fully internalize what he was seeing, Mark was set upon by a number of slave-farmers who had approached him from behind. He was forced into a prostrate position as a large man with an ornate crown began screaming at him in a very foreign language and making frightening gestures. He was given a crude sickle and it was made obvious that his new job was to reap the reed field to which he had been so jarringly transported. It definitely wasn’t a voluntary position, as when he refused to work he was beaten.
+
+Mark spent twelve years in this place. In a sense, it was vaguely similar to heaven. Most of the slaves he met had had similarly normal lives and were also certain that they had died. It seemed that he had been placed on some sort of extended waiting list, and at the end of his time in this place he would be taken somewhere else. A few years into his new profession Mark met a man claiming to have been an Egyptologist in his former life. He was convinced that the ancient Egyptian culture had been right about the afterlife. He and Mark were both beaten for having a conversation.
+
+Mark’s stint as a slave laborer ended abruptly one day when he was visited by what he could only describe as a “divine sky cow.” The cow—which had a strangely loving and comforting presence—took Mark on a confusing journey through a series of gates which were guarded by an assortment of supernaturally vile and disgusting creatures. He spent an hour at each gate attempting to communicate with these demonic abominations until, at the end of the hour, they opened the gate regardless of how well the conversation seemed to have been going. In this time Mark met Thoth; the Self-Begotten; the overseer of divine wars and inventor of science, religion, philosophy, and magic. He met a falcon named Horus whose eyes contained the actual sun and moon. He also saw a humanoid creature eat its own feces for no clear reason.
+
+After an agonizingly long and confusing day, Mark and his cow guide cleared the last gate and met the only creature in this hell that he recognized; Anubis. Only everyone was calling the damn thing “Anapa” and the scenario was considerably more grim than he had envisioned. He was forced onto the floor by something called an Imiut and his heart was carved out of his chest with a knife. The heart was placed on a scale where it was weighed against a feather. Mark, still wincing, managed a cynical laugh when his heart dropped like a rock and sent the feather careening off into the chamber. The Imiut thing made a horrible noise and chased after it. Anapa uttered something guttural and a very monstrous looking Hippopotamus with the head of a Crocodile ran into the room and devoured Mark in a flash of pain and light.
+
+Then Mark awoke in the field of reeds.

@@ -1,0 +1,9 @@
+baseurl = "http://www.elscorpio.com/"
+languageCode = "en-us"
+title = "El Scorpio"
+preserveTaxonomyNames = true
+paginate = 50
+
+[taxonomies]
+  author = "authors"
+  issue = "issues"

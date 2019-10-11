@@ -1,0 +1,8 @@
++++
+title = "Big Collab #1"
+issues = ["March 2016"]
+authors = ["Karim Moti", "Zhenya Frolov", "Tanushree Verma", "Cosmo Fumo", "Amanda Fujii", "Tim Berteaux", "Alisa Rosenbaum", "Samantha Valasek", "Rachel"]
+issues_weight = 1
++++
+
+When Karen entered the kitchen Tuesday morning, she found Sam staring slack-jawed into the trashcan. Crossing the linoleum, she caught the lines of horror in his expression and heard him whisper as if to himself, "Everything ends." Karen's gaze slid from Sam into the maw of the can whereupon all the previous night’s fears were made real; clutching her stomach — sick with grief and a nebulous sense of existential loss — Karen vomited. "Haha, I remember MY first jello shot!" guffawed Uncle Andy as he lumbered into the room, bathrobe left carelessly open and belly plunging over his waistband. Both Karen and Sam glared at him, wanting to correct his misperception, but knowing any attempts would end in disaster. It didn't matter; Uncle Andy quickly caught sight of the unholy, formless evil floating in the center of his trash can and — turning pallid as a corpse — managed to whisper "Oh my god, it found me." Neither Karen nor Sam could see what had caused Uncle Andy to collapse in the back corner, but they could feel the darkness creeping up their heels, up to their calf muscles and into their backs, tingling in a dark, pleasurable manner but then causing them a pain they could not express until it crept into their brains and consumed them entirely. Uncle Andy began to weep. The hell-spawn stood where Karen and Sam once were, looked at Uncle Andy with an evil glare, and said, "Now we are even."
